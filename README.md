@@ -31,7 +31,7 @@ To install the theme for TextMate, download Oblivion.tmTheme and place it in `~/
 
 ### Using the Theme
 
-After installation, the theme should be available in Preferences -> Fonts & Colors.
+After installation, the theme will be available in `Preferences -> Fonts & Colors`.
 
 ## Issues
 
