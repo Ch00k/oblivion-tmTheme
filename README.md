@@ -1,6 +1,6 @@
 # Oblivion TextMate and Sublime 2 Theme
 
-A port of the GEdit 'Oblivion' theme for TextMate and Sublime 2.  This is mostly styled after the [eclipsecolorthemes.org implementation](http://www.eclipsecolorthemes.org/?view=theme&id=1).  There is an alternate implementation which is more true to the original, [Morrowind](https://github.com/NateStedman/morrowind), which may interest you.
+A port of the GEdit 'Oblivion' theme for TextMate and Sublime 2.  This is mostly styled after the [eclipsecolorthemes.org](http://www.eclipsecolorthemes.org/?view=theme&id=1) implementation.  There is an alternate implementation which is more true to the original, [Morrowind](https://github.com/NateStedman/morrowind), which may interest you.
 
 ## Screenshot
 
