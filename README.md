@@ -19,7 +19,7 @@ To install the theme, navigate to your Sublime Text 2 `Packages` directory and c
 
 ## Using the Theme
 
-After installing the theme, it can be enabled by navigating to: `Preferences > Color Theme > Color Scheme - Oblivion - Oblivion`
+After installing the theme, it can be enabled by navigating to: `Preferences > Color Theme > Color Scheme - Oblivion > Oblivion`
 
 ## Issues
 
