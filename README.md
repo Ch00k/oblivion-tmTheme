@@ -6,9 +6,11 @@ A port of the GEdit 'Oblivion' theme for TextMate and Sublime 2.  This is mostly
 
 ![Oblivion Sublime 2 Screenshot](https://github.com/downloads/weak/oblivion-tmTheme/oblivion_preview.png)
 
-## Installation
+## Sublime Text 2
 
-To install the theme, navigate to your Sublime Text 2 `Packages` directory and clone the repository using the command below:
+### Installation
+
+To install the theme for Sublime 2, navigate to your Sublime Text 2 `Packages` directory and clone the repository using the command below:
 
     git clone https://github.com/weak/oblivion-tmTheme "Color Scheme - Oblivion"
     
@@ -17,9 +19,19 @@ To install the theme, navigate to your Sublime Text 2 `Packages` directory and c
 - **OS X**: `~/Library/Application Support/Sublime Text 2`
 - **Linux**: `~/.Sublime Text 2`
 
-## Using the Theme
+### Using the Theme
 
 After installing the theme, it can be enabled by navigating to: `Preferences > Color Theme > Color Scheme - Oblivion > Oblivion`
+
+## TextMate
+
+### Installation
+
+To install the theme for TextMate, download Oblivion.tmTheme and place it in `~/Library/Application Support/TextMate/Themes`.  **Note**:  You may need to create the 'Themes' directory.
+
+### Using the Theme
+
+After installation, the theme should be available in Preferences -> Fonts & Colors.
 
 ## Issues
 
