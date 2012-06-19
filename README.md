@@ -17,7 +17,7 @@ To install the theme for Sublime 2, navigate to your Sublime Text 2 `Packages` d
 **Note**: Based on OS, the `Packages` directory can be found in the following directories:
 - **Windows**: `%APPDATA%\Sublime Text 2\Packages`
 - **OS X**: `~/Library/Application Support/Sublime Text 2`
-- **Linux**: `~/.Sublime Text 2`
+- **Linux**: `~/.config/sublime-text-2`
 
 ### Using the Theme
 
