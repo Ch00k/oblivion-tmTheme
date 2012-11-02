@@ -120,8 +120,10 @@
 			<string>keyword</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+                                <string>bold</string>
 				<key>foreground</key>
-				<string></string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -199,7 +201,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D8D8D8</string>
+				<string>#D3D7CF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,7 +227,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BED6FF</string>
+				<string>#79ABFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -236,9 +238,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#BED6FF</string>
+				<string>#8AE234</string>
 			</dict>
 		</dict>
 		<dict>
