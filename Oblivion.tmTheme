@@ -10,11 +10,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1E1E1E</string>
+				<string>#2E3436</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#D8D8D8</string>
+				<string>#D3D7CF</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
